@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web developement**
 
-- 👨‍💻 All of my projects are available at [https://gaurav-patil.netlify.app/](https://gaurav-patil.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gaurav-patil-portfolio.netlify.app/](https://gaurav-patil-portfolio.netlify.app/)
 
 - 💬 Ask me about **Html, Css, Javascript. react, redux**
 
