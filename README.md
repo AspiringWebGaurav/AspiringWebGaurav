@@ -11,7 +11,7 @@
 🌱 I’m currently learning Full stack web development in Masai School
 
 <br><br>
-####  Visit my portfolio <a href="https://aspiringwebgaurav.github.io/" rel="nofollow"> 🌱Portfolio</a></li>
+####  Visit my portfolio <a href="https://aspiringwebgaurav.github.io/" rel="nofollow"> 🌱Portfolio</a> or https://aspiringwebgaurav.github.io/</li>
 
 
 ## 🌐 Socials:
